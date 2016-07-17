@@ -23,9 +23,9 @@ What we are expecting: Simple, executable code, that fulfills the below requirem
 
 ##Key Points:
 
- (1) Use Javascript/CSS animations to move the trains between the stations in the line map.
- (2) If you are using Javascript for animations, there is no restriction to your choice of JS libraries (JQuery, Angular, paper, etc..).
- (3) Assume any missing parameters/constants and list in "Assumptions.txt".
- (4) Code need not be production level quality, please provide pseudo-code for any further development that has not been implemented.
- (5) Unit tests are NOT required.
- (6) If you have any questions, please do get in touch.
+(1) Use Javascript/CSS animations to move the trains between the stations in the line map.
+(2) If you are using Javascript for animations, there is no restriction to your choice of JS libraries (JQuery, Angular, paper, etc..).
+(3) Assume any missing parameters/constants and list in "Assumptions.txt".
+(4) Code need not be production level quality, please provide pseudo-code for any further development that has not been implemented.
+(5) Unit tests are NOT required.
+(6) If you have any questions, please do get in touch.
