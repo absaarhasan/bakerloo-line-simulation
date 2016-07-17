@@ -1,0 +1,16 @@
+Assumptions:
+
+* All stations are presumed to be equip-distant.
+* All tracks are assumed to be in a straight line, and on a flat surface without any form of gradient.
+* All accelerations and decelerations are assumed to be instantaneous.
+
+Considerations:
+
+* The website is not responsive, please view on a desktop.
+* The decision was made to build the website using vanilla JS, without using any plug-ins or libraries.
+* Please refer to the JSON file to view which stations have got slow departures.
+* Slow trains travel between stations in 4 seconds, and normal trains make the same journey in 2 seconds.
+* An exposed module pattern has been used so that unit tests may be introduced later.
+* This website was built in Chome OSX and has not been tested in any other browser.
+* It is assumed it will work in most browsers, but it is known that the CSS transitions will fail in IE 9.
+* The station intervals and departure intervals are configurable, and I have commented in some recommended settings to improve viewing performance.

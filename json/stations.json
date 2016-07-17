@@ -1,0 +1,103 @@
+[
+  {
+    "station": "Harrow & Wealdstone",
+    "speed" : "normal"
+  },
+  {
+    "station": "Kenton",
+    "speed" : "slow"
+  },
+  {
+    "station": "South Kenton",
+    "speed" : "normal"
+  },
+  {
+    "station": "North Wembley",
+    "speed" : "normal"
+  },
+  {
+    "station": "Wembley Central",
+    "speed" : "normal"
+  },
+  {
+    "station": "Stonebridge Park",
+    "speed" : "normal"
+  },
+  {
+    "station": "Harlesden",
+    "speed" : "normal"
+  },
+  {
+    "station": "Willesden Junction",
+    "speed" : "normal"
+  },
+  {
+    "station": "Kensal Green",
+    "speed" : "normal"
+  },
+  {
+    "station": "Queen's Park",
+    "speed" : "slow"
+  },
+  {
+    "station": "Kilburn Park",
+    "speed" : "slow"
+  },
+  {
+    "station": "Maida Vale",
+    "speed" : "slow"
+  },
+  {
+    "station": "Warwick Avenue",
+    "speed" : "slow"
+  },
+  {
+    "station": "Paddington",
+    "speed" : "normal"
+  },
+  {
+    "station": "Edgware Road",
+    "speed" : "normal"
+  },
+  {
+    "station": "Marylebone",
+    "speed" : "normal"
+  },
+  {
+    "station": "Baker Street",
+    "speed" : "normal"
+  },
+  {
+    "station": "Regent's Park",
+    "speed" : "normal"
+  },
+  {
+    "station": "Oxford Circus",
+    "speed" : "normal"
+  },
+  {
+    "station": "Piccadilly Circus",
+    "speed" : "normal"
+  },
+  {
+    "station": "Charing Cross",
+    "speed" : "normal"
+  },
+  {
+    "station": "Embankment",
+    "speed" : "normal"
+  },
+  {
+    "station": "Waterloo",
+    "speed" : "normal"
+  },
+  {
+    "station": "Lambeth North",
+    "speed" : "normal"
+  },
+  {
+    "station": "Elephant & Castle",
+    "speed" : "normal"
+  }
+
+]
